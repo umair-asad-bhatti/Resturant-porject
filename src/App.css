@@ -1,0 +1,50 @@
+body {
+    overflow-x: hidden;
+}
+
+.container_front_1 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./components/images/Front_1/Bg.png);
+}
+
+.container_front_2 {
+    width: 100vw;
+    min-height: 100vh;
+    background-image: url(./components/images/Front_2/pattern.png);
+}
+
+.container-front-3 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./components/images/Front_3/bg.png);
+}
+
+.container-front-4 {
+    width: 100vw;
+    min-height: 100vh;
+    background-image: url(./components/images/Front_4/pattern.png);
+}
+
+.container-front-5 {
+    width: 100vw;
+    min-height: 100vh;
+    background-image: url(./components/images/Front_5/bg.png);
+    position: relative;
+}
+
+.container-front-6 {
+    width: 100vw;
+    min-height: 100vh;
+    background-image: url(./components/images/Front_6/pattern.png);
+}
+
+
+/* Designing input fields here */
+
+.inputs {
+    border: 1px solid #cc9900;
+    padding: 3px 10px;
+    outline: none;
+    width: 200px;
+}
